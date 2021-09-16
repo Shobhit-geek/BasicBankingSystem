@@ -10,4 +10,8 @@
   <li>Backend :- PHP </li>
   <li>Database :- MYSQL </li>
 </ul>
-  
+<h2>Database contains two tables:-</h2>
+<ul>
+  <li>Users</li>
+  <li>transaction</li>
+</ul>
