@@ -15,3 +15,4 @@
   <li>Users</li>
   <li>transaction</li>
 </ul>
+<p>I also provided .sql file which helps to understand the structure of DATABASE</p>
