@@ -3,6 +3,4 @@
 
 <h3>Project Domain:- Web Development</h3>
 <h3>Task:- Basic Banking System</h3>
-<h2>It is used to transfer money between multiple Users</h2>
-
-<h2>
+<p>It is used to transfer money between multiple Users</p>
